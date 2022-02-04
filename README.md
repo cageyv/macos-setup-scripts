@@ -6,7 +6,10 @@ Set of scripts and tools required for work
 - Prepare git: Copy Git config from 1password
 - Install gh `brew install gh`
 - Login with GitHub `gh auth login`
-- Prepare GPG: 
+- pull repo
+- GPG Sign
+  - Extract ```gpg --list-secret-keys user@example.com gpg --export-secret-keys YOUR_ID_HERE > private.key```
+  - Import ``` gpg --import private.key ```
 
 ## TODO
 - 1password
@@ -21,9 +24,6 @@ Set of scripts and tools required for work
 - google drive
 
 ## Configs
-- GPG Sign
-  - Extract ```gpg --list-secret-keys user@example.com gpg --export-secret-keys YOUR_ID_HERE > private.key```
-  - Import ``` gpg --import private.key ```
 - SSH keys
 - Git config
 - ZSH config
