@@ -10,6 +10,15 @@ Set of scripts and tools required for work
 
 ## TODO
 - 1password
+- brave
+- slack
+- telegram
+- docker
+- vscode
+- parallels
+- keybase
+- dropbox
+- google drive
 
 ## Configs
 - GPG Sign
