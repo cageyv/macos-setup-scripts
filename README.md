@@ -1,7 +1,12 @@
 # macos-setup-scripts
 Set of scripts and tools required for work
 ## First steps
-### Prepare git
+- Install HomeBrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- Install git `brew install git`
+- Install gh `brew install gh`
+- Prepare GPG: 
+- Prepare git: Copy Git config from 1password
+
 
 ## Configs
 - GPG Sign
