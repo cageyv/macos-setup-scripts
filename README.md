@@ -8,7 +8,8 @@ Set of scripts and tools required for work
 - Login with GitHub `gh auth login`
 - Prepare GPG: 
 
-
+## TODO
+- 1password
 
 ## Configs
 - GPG Sign
