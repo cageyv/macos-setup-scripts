@@ -24,4 +24,4 @@ Set of scripts and tools required for work
 - keybase
 - dropbox
 - google drive
-
+- logi options: https://support.logi.com/hc/en-us/articles/360025297893
