@@ -19,3 +19,4 @@ Host github.com
     UseKeychain yes
 ```
 - update .gitconfig and add GPG key
+- create new macos keychain for storing API keys secruely ```security create-keychain -p password ~/Library/Keychains/client.keychain```
